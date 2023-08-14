@@ -27,7 +27,7 @@
 
 # 9. Use lambda function to raise to the power of 2 each element in the above list with `map()`.
 
-
+     
 # 10. Pass multiple iterables to `map()` function.
 
 
