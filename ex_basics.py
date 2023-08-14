@@ -11,7 +11,7 @@
 # 2. Assign 5 values in one line.
 # a, b, c, f, e = 1, 2, 3, 4, 5
 # a = b = c = d = e = 0
-
+    
 
 
 # 3. Create 4 lists with: only numbers, only strings, only lists and all mixed together.
